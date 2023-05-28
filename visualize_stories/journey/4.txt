@@ -1,0 +1,20 @@
+journey
+    title The Dark Knight
+    section Batman's Pursuit of Justice
+        Batman's Vigilante Actions: 4: Batman
+        Batman's Investigation and Confrontation: 3: Batman
+        Batman's Frustration and Challenges: 2: Batman
+    section The Rise of the Joker
+        Introduction of the Joker: 2: Joker
+        Joker's Chaotic Acts and Threats: 1: Joker
+        Joker's Manipulation and Psychological Warfare: 2: Joker
+    section The Battle for Gotham's Soul
+        Batman's Moral Dilemma: 3: Batman
+        Harvey Dent's Transformation: 2: Harvey Dent
+        Joker's Reign of Chaos: 1: Joker
+        Batman's Sacrifices and Final Confrontation: 4: Batman
+    section Reflection and Legacy
+        Batman's Reflection on His Role: 3: Batman
+        Harvey Dent's Legacy and Betrayal: 2: Harvey Dent
+        Batman's Resolute Commitment: 4: Batman
+        Batman's Disappearance and Symbolic Ending: 3: Batman

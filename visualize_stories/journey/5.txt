@@ -1,0 +1,18 @@
+journey
+    title Fight Club
+    section The Narrator's Dissatisfaction with Life
+        The Narrator's Monotonous Routine: 2: Narrator
+        The Narrator's Insomnia and Desperation: 1: Narrator
+        The Narrator's Encounter with Tyler Durden: 4: Narrator, Tyler
+    section Project Mayhem and Anarchy
+        The Formation of Fight Club: 4: Narrator, Members
+        Fight Club's Expansion and Anarchy: 5: Narrator, Members
+        Project Mayhem's Dangerous Actions: 2: Narrator, Members
+    section The Unraveling of Reality
+        The Narrator's Split Personality and Unreliable Narration: 3: Narrator
+        Tyler Durden's Revelation and Manipulation: 2: Tyler, Narrator
+        The Narrator's Confusion and Emotional Turmoil: 1: Narrator
+    section Acceptance and Transformation
+        The Narrator's Journey towards Self-Realization: 3: Narrator
+        The Narrator's Confrontation and Integration: 4: Narrator, Tyler
+        The Narrator's Liberation and Embracing of Imperfection: 5: Narrator

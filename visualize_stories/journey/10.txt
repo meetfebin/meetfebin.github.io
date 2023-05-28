@@ -1,0 +1,22 @@
+journey
+    title The Lion King
+    section Introduction
+      Birth of Simba: 5: Mufasa, Sarabi
+      Presentation of Simba: 5: Mufasa, Sarabi
+      Rafiki's presentation: 3: Mufasa, Sarabi, Rafiki
+    section Hakuna Matata
+      Timon and Pumbaa save Simba: 4: Simba, Timon, Pumbaa
+      Simba's new carefree life: 4: Simba, Timon, Pumbaa
+      Growing up montage: 4: Simba, Timon, Pumbaa
+    section Return to Pride Rock
+      Nala finds Simba: 4: Simba, Nala
+      Nala convinces Simba to return: 4: Simba, Nala
+      Simba's decision to confront Scar: 5: Simba
+    section Battle for Pride Rock
+      Scar's deception revealed: 2: Simba, Nala, Scar
+      Simba confronts Scar: 4: Simba, Scar
+      Final battle and defeat of Scar: 5: Simba, Nala, Scar
+    section The Circle of Life
+      Simba takes his place as king: 5: Simba, Nala, Pride Land inhabitants
+      Presentation of Simba and Nala's cub: 5: Simba, Nala, Pride Land inhabitants
+      Rafiki's closing ceremony: 5: Simba, Nala, Pride Land inhabitants, Rafiki

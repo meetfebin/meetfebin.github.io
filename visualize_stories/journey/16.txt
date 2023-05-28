@@ -1,0 +1,32 @@
+journey
+    title Eternal Sunshine of the Spotless Mind
+    section Joel and Clementine meet
+        Joel: 5: Happy, in love
+        Clementine: 5: Happy, interested
+    section Relationship struggles
+        Joel: 2: Sad, heartbroken
+        Clementine: 3: Neutral, frustrated
+    section Discovering Lacuna, Inc.
+        Joel: 2: Sad, confused
+        Clementine: 3: Neutral, intrigued
+    section Decision to undergo the procedure
+        Joel: 1: Devastated, desperate
+        Clementine: 4: Content, hopeful
+    section Memory erasure process
+        Joel: 1: Devastated, losing memories
+        Clementine: 3: Neutral, curious
+    section Rediscovering each other
+        Joel: 4: Happy, rediscovering love
+        Clementine: 4: Happy, reconnecting
+    section Realization and acceptance
+        Joel: 5: Happy, embracing memories
+        Clementine: 5: Happy, accepting flaws
+    section Repeating the cycle
+        Joel: 2: Sad, trapped
+        Clementine: 3: Neutral, conflicted
+    section Breaking the cycle
+        Joel: 5: Happy, determined
+        Clementine: 5: Happy, ready for change
+    section Final reconciliation
+        Joel: 4: Happy, forgiving
+        Clementine: 4: Happy, letting go

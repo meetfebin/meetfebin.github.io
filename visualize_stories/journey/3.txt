@@ -1,0 +1,19 @@
+journey
+    title Schindler's List
+    section Oskar Schindler's Arrival in Kraków
+        Schindler's Business Ventures: 4: Schindler
+        Schindler's Interaction with Jewish Workers: 3: Schindler, Workers
+        Schindler's Indifference to Jewish Persecution: 2: Schindler
+    section Awareness and Empathy
+        Schindler Witnesses Jewish Persecution: 1: Schindler
+        Schindler's Realization and Change of Heart: 4: Schindler
+        Schindler's Efforts to Save Jewish Lives: 5: Schindler, Jews
+    section Saving Jewish Lives
+        Schindler's Factory Becomes a Safe Haven: 5: Schindler, Jews
+        Schindler's Negotiations and Bribery: 4: Schindler, Jews
+        Schindler's List and the Rescue Operation: 5: Schindler, Jews
+    section The Impact and Legacy
+        Liberation and Emotional Release: 5: Schindler, Jews
+        Schindler's Regret and Reflection: 3: Schindler
+        Schindler's Recognition and Honor: 4: Schindler, Jews
+        Schindler's Departure and Emotional Farewell: 3: Schindler, Jews

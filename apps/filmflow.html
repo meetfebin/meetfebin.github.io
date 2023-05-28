@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/simple-peer@9.11.1/simplepeer.min.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+		integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+		crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/styles.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.70/pdfmake.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.70/vfs_fonts.js"></script>
+	<script src="https://bumbu.me/svg-pan-zoom/dist/svg-pan-zoom.js"></script>
+
+	<script src="
+https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js
+"></script>
+	<script>
+		!function (t, e) { var o, n, p, r; e.__SV || (window.posthog = e, e._i = [], e.init = function (i, s, a) { function g(t, e) { var o = e.split("."); 2 == o.length && (t = t[o[0]], e = o[1]), t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } } (p = t.createElement("script")).type = "text/javascript", p.async = !0, p.src = s.api_host + "/static/array.js", (r = t.getElementsByTagName("script")[0]).parentNode.insertBefore(p, r); var u = e; for (void 0 !== a ? u = e[a] = [] : a = "posthog", u.people = u.people || [], u.toString = function (t) { var e = "posthog"; return "posthog" !== a && (e += "." + a), t || (e += " (stub)"), e }, u.people.toString = function () { return u.toString(1) + ".people (stub)" }, o = "capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "), n = 0; n < o.length; n++)g(u, o[n]); e._i.push([i, s, a]) }, e.__SV = 1) }(document, window.posthog || []);
+		posthog.init('phc_exdsMG7iYIgUuSfCFf2zOjua2XiRm0Dav4qIxgcHRlI', { api_host: 'https://app.posthog.com' })
+	</script>
+	<title>Meet Febin</title>
+	<meta name="viewport" content="width=device-width" />
+	<meta http-equiv="content-security-policy" content="">
+		<link href="../_app/immutable/assets/4.5940cffe.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.e17fa61b.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.d6ec018a.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.4df4bf10.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.b7c7050e.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.da20a7d3.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/4.43942996.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/axios.4a70c6fc.js">
+</head>
+<script>
+	$(document).ready(function() {
+
+		// Check for click events on the navbar burger icon
+		$(".navbar-burger").click(function() {
+	
+			// Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+			$(".navbar-burger").toggleClass("is-active");
+			$(".navbar-menu").toggleClass("is-active");
+	
+		});
+	});
+	</script>
+<body data-sveltekit-preload-data="hover">
+	<nav class="navbar" role="navigation" aria-label="main navigation">
+		
+		<div class="navbar-brand">
+		
+			<a href="/" class="navbar-item">
+				MeetFebin
+			</a>
+		
+			<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+			  <span aria-hidden="true"></span>
+			  <span aria-hidden="true"></span>
+			  <span aria-hidden="true"></span>
+			</a>
+		  </div>
+
+		<div id="navbarBasicExample" class="navbar-menu">
+			<div class="navbar-start">
+				<a href="/aiprojects" class="navbar-item">
+					AI Projects
+				</a>
+			</div>
+
+			<div class="navbar-end">
+				<div class="navbar-item">
+					<div class="buttons">
+						<a href="https://forms.gle/iSwGHp2cTejiPnwy7" target="_blank" class="button is-link">
+							<strong>Subscribe</strong>
+						</a>
+						
+					</div>
+				</div>
+			</div>
+
+			
+		</div>
+	</nav>
+	<div style="display: contents">
+
+
+<div><section class="hero has-background-orange has-text-centered" style="margin-bottom: 2%;"><div class="hero-body" style="padding-bottom:2px;"><div class="container"><h1 class="title is-size-1">Film Flow
+                </h1>
+                <h2 class="subtitle is-size-5" style="margin-top: 1px;">AI powered tool for visualizing and analyzing the emotional pulse of films.  Harnessing the power of AI, Film Flow allows you to delve deep into the captivating world of cinema and gain valuable insights into the emotional dynamics of any movie.
+                </h2>
+
+                <div class="columns is-centered"><div class="column is-half"><div class="field"><div class="control"><input name="Movie" class="input is-rounded is-medium" type="text" placeholder="Movie Name (Released Before 2021)" autocomplete="off" value=""></div></div>
+                        <div class="field is-grouped"><div class="control"><input name="OpenAI Key" class="input is-rounded is-medium" type="password" placeholder="OpenAI API Key" autocomplete="off" value=""></div>
+                            <div class="control"><button class="button is-info is-rounded is-medium has-background-light-blue has-text-white">Visualize </button></div></div>
+                        
+                        <p id="message" style="margin-top: 10px; color: #888;"><small>When you enter your API Key in this app, your browser establishes a direct connection with OpenAI. We do not store or utilize your key in any way.
+
+                            .</small></p></div></div></div></div></section>
+
+    
+    <div class="grid svelte-1ngqf7n"><div class="card svelte-1ngqf7n"><h3>The Shawshank Redemption</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/10.jpg" alt="The Shawshank Redemption">
+            </div><div class="card svelte-1ngqf7n"><h3>The Godfather</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/1.jpg" alt="The Godfather">
+            </div><div class="card svelte-1ngqf7n"><h3>Schindler's List</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/11.jpg" alt="Schindler's List">
+            </div><div class="card svelte-1ngqf7n"><h3>The Dark Knight</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/5.jpg" alt="The Dark Knight">
+            </div><div class="card svelte-1ngqf7n"><h3>Fight Club</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/12.jpg" alt="Fight Club">
+            </div><div class="card svelte-1ngqf7n"><h3>Pulp Fiction</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/13.jpg" alt="Pulp Fiction">
+            </div><div class="card svelte-1ngqf7n"><h3>The Matrix</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/16.jpg" alt="The Matrix">
+            </div><div class="card svelte-1ngqf7n"><h3>Forrest Gump</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/14.jpg" alt="Forrest Gump">
+            </div><div class="card svelte-1ngqf7n"><h3>The Lord of the Rings: The Fellowship of the Ring</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/9.jpg" alt="The Lord of the Rings: The Fellowship of the Ring">
+            </div><div class="card svelte-1ngqf7n"><h3>The Lion King</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/8.jpg" alt="The Lion King">
+            </div><div class="card svelte-1ngqf7n"><h3>The Silence of the Lambs</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/15.jpg" alt="The Silence of the Lambs">
+            </div><div class="card svelte-1ngqf7n"><h3>The Pianist</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/18.jpg" alt="The Pianist">
+            </div><div class="card svelte-1ngqf7n"><h3>The Social Network</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/4.jpg" alt="The Social Network">
+            </div><div class="card svelte-1ngqf7n"><h3>Inception</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/7.jpg" alt="Inception">
+            </div><div class="card svelte-1ngqf7n"><h3>Good Will Hunting</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/17.jpg" alt="Good Will Hunting">
+            </div><div class="card svelte-1ngqf7n"><h3>Eternal Sunshine of the Spotless Mind</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/6.jpg" alt="Eternal Sunshine of the Spotless Mind">
+            </div><div class="card svelte-1ngqf7n"><h3>Interstellar</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/19.jpg" alt="Interstellar">
+            </div><div class="card svelte-1ngqf7n"><h3>The Departed</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/3.jpg" alt="The Departed">
+            </div><div class="card svelte-1ngqf7n"><h3>Gladiator</h3>
+                <img class="thumbnail svelte-1ngqf7n" src="/visualize_stories/2.jpg" alt="Gladiator">
+            </div></div>
+</div>
+
+
+			
+			<script>
+				{
+					__sveltekit_qwkzhz = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.e17fa61b.js"),
+						import("../_app/immutable/entry/app.b7c7050e.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 4],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+</body>
+
+</html>

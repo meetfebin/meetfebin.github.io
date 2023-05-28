@@ -15,6 +15,11 @@
 	<link rel="stylesheet" href="/styles.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.70/pdfmake.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.70/vfs_fonts.js"></script>
+	<script src="https://bumbu.me/svg-pan-zoom/dist/svg-pan-zoom.js"></script>
+
+	<script src="
+https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js
+"></script>
 	<script>
 		!function (t, e) { var o, n, p, r; e.__SV || (window.posthog = e, e._i = [], e.init = function (i, s, a) { function g(t, e) { var o = e.split("."); 2 == o.length && (t = t[o[0]], e = o[1]), t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } } (p = t.createElement("script")).type = "text/javascript", p.async = !0, p.src = s.api_host + "/static/array.js", (r = t.getElementsByTagName("script")[0]).parentNode.insertBefore(p, r); var u = e; for (void 0 !== a ? u = e[a] = [] : a = "posthog", u.people = u.people || [], u.toString = function (t) { var e = "posthog"; return "posthog" !== a && (e += "." + a), t || (e += " (stub)"), e }, u.people.toString = function () { return u.toString(1) + ".people (stub)" }, o = "capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "), n = 0; n < o.length; n++)g(u, o[n]); e._i.push([i, s, a]) }, e.__SV = 1) }(document, window.posthog || []);
 		posthog.init('phc_exdsMG7iYIgUuSfCFf2zOjua2XiRm0Dav4qIxgcHRlI', { api_host: 'https://app.posthog.com' })
@@ -22,16 +27,17 @@
 	<title>Meet Febin</title>
 	<meta name="viewport" content="width=device-width" />
 	<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.30af5162.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.394dbf96.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.471aab26.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app.e1cac309.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/0.1718e53b.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/3.0257a059.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.e17fa61b.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.d6ec018a.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.4df4bf10.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.b7c7050e.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.da20a7d3.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/5.38c3c958.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/axios.4a70c6fc.js">
 </head>
 <script>
 	$(document).ready(function() {
-	
+
 		// Check for click events on the navbar burger icon
 		$(".navbar-burger").click(function() {
 	
@@ -60,7 +66,7 @@
 
 		<div id="navbarBasicExample" class="navbar-menu">
 			<div class="navbar-start">
-				<a href="/apps/peace" class="navbar-item">
+				<a href="/aiprojects" class="navbar-item">
 					AI Projects
 				</a>
 			</div>
@@ -115,7 +121,7 @@
 			
 			<script>
 				{
-					__sveltekit_1h8pbcp = {
+					__sveltekit_qwkzhz = {
 						base: new URL("..", location).pathname.slice(0, -1),
 						env: {}
 					};
@@ -125,11 +131,11 @@
 					const data = [null,null];
 
 					Promise.all([
-						import("../_app/immutable/entry/start.30af5162.js"),
-						import("../_app/immutable/entry/app.e1cac309.js")
+						import("../_app/immutable/entry/start.e17fa61b.js"),
+						import("../_app/immutable/entry/app.b7c7050e.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
-							node_ids: [0, 3],
+							node_ids: [0, 5],
 							data,
 							form: null,
 							error: null

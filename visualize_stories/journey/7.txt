@@ -1,0 +1,33 @@
+journey
+    title The Matrix Story
+    section Neo's Ordinary Life
+        Wake up: 4: Neo
+        Go to work: 4: Neo
+        Do coding: 4: Neo
+    section Neo's Encounter with Trinity
+        Meet Trinity: 5: Neo
+        Learn about the Matrix: 3: Neo
+        Experience the Construct: 4: Neo
+    section Neo's Training with Morpheus
+        Take the red pill: 5: Neo
+        Enter the Matrix: 5: Neo
+        Start combat training: 4: Neo
+        Learn about the rules: 3: Neo
+        Master martial arts: 4: Neo
+    section Neo's First Mission
+        Rescuing Morpheus: 5: Neo
+        Face Agents in the Matrix: 4: Neo
+        Fight the security guards: 4: Neo
+        Escape the building: 4: Neo
+    section Neo's Transformation
+        Discover his true identity as The One: 5: Neo
+        Master control over the Matrix: 5: Neo
+        Learn to dodge bullets: 4: Neo
+    section Neo's Battle against Agent Smith
+        Confront Agent Smith: 4: Neo
+        Engage in intense fight sequences: 4: Neo
+        Overpower Agent Smith: 5: Neo
+    section Neo's Victory and Liberation
+        Destroy Agent Smith: 5: Neo
+        Free minds from the Matrix: 5: Neo
+        Reunite with Trinity: 5: Neo

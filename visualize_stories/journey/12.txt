@@ -1,0 +1,30 @@
+journey
+    title The Pianist - Value Change Visualization
+    section Władysław Szpilman's Life Before the War
+        Family Happiness: 4: Władysław Szpilman, Family
+        Pursuing Musical Career: 4: Władysław Szpilman
+        Enjoying Concerts: 5: Władysław Szpilman
+    section German Invasion and Occupation of Poland
+        Fear and Chaos: 1: Władysław Szpilman, Polish Citizens
+        Separation from Family: 2: Władysław Szpilman
+        Struggle for Survival: 1: Władysław Szpilman
+    section Life in the Ghetto
+        Restricted Living Conditions: 2: Władysław Szpilman, Jewish Community
+        Lack of Food and Supplies: 1: Władysław Szpilman, Jewish Community
+        Continuous Fear and Uncertainty: 1: Władysław Szpilman, Jewish Community
+    section Escaping the Ghetto
+        Desperation and Risk: 2: Władysław Szpilman
+        Finding Shelter: 3: Władysław Szpilman
+        Isolation and Loneliness: 2: Władysław Szpilman
+    section Survival in Hiding
+        Constant Fear of Discovery: 1: Władysław Szpilman
+        Struggling to Stay Alive: 1: Władysław Szpilman
+        Moments of Relief and Hope: 3: Władysław Szpilman
+    section Discovery and Assistance
+        Encounter with German Officer: 2: Władysław Szpilman
+        Assistance from a German Officer: 3: Władysław Szpilman
+        Escaping the Danger: 4: Władysław Szpilman
+    section Post-War Redemption
+        Devastation and Loss: 1: Władysław Szpilman, Warsaw
+        Rebuilding and Reconnecting: 4: Władysław Szpilman, Music
+        Emotional Healing: 5: Władysław Szpilman

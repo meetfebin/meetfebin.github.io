@@ -1,0 +1,19 @@
+journey
+    title The Godfather
+    section Vito Corleone's Reign
+        Vito Corleone Establishes His Power: 4: Vito
+        Vito's Relationship with Family and Allies: 4: Vito, Family, Allies
+        Vito's Influence Expands: 5: Vito, Family, Allies
+    section Michael Corleone's Rise to Power
+        Michael's Reluctant Involvement in Family Affairs: 3: Michael
+        Michael's Actions to Protect His Family: 4: Michael
+        Michael's Transformation into the Don: 5: Michael
+    section The Tension and Struggle for Power
+        Rival Families and Internal Conflicts: 2: Characters, Families
+        Assassination Attempts and Betrayal: 1: Characters
+        Michael's Consolidation of Power: 5: Michael, Family
+    section Redemption and the Cost of Power
+        Michael's Isolation and Loss: 2: Michael
+        Michael's Reconciliation with Kay: 3: Michael, Kay
+        Michael's Loneliness and Reflection: 1: Michael
+        Michael's Final Moments: 2: Michael

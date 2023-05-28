@@ -1,0 +1,51 @@
+journey
+    title The Departed: Value Change Sequence
+    section Billy Costigan's Journey
+        Joining the police academy: 4: Billy
+        Undercover assignment with Frank Costello: 5: Billy
+        Developing loyalty to Frank Costello: 5: Billy
+        Falling in love with psychiatrist Madolyn Madden: 4: Billy
+        Learning about Colin Sullivan's true identity: 2: Billy
+        Realizing Frank Costello is an informant: 2: Billy
+        Betraying Frank Costello and becoming a double agent: 4: Billy
+        Gaining the trust of the police force: 5: Billy
+        Escaping from Colin Sullivan's pursuit: 4: Billy
+        Reuniting with Dignam and planning to expose Sullivan: 5: Billy
+        Sacrificing himself to protect his true identity: 2: Billy
+        
+    section Colin Sullivan's Journey
+        Rising through the ranks in the police force: 5: Colin
+        Discovering his true allegiance to Frank Costello: 5: Colin
+        Establishing a relationship with psychiatrist Madolyn Madden: 4: Colin
+        Realizing Billy Costigan is an undercover cop: 2: Colin
+        Attempting to eliminate Billy Costigan: 2: Colin
+        Failing to uncover the police mole: 3: Colin
+        Growing paranoid and desperate to protect his secret: 2: Colin
+        Killing Queenan to maintain his cover: 2: Colin
+        Learning about the identity of the real mole: 3: Colin
+        Confronting Billy Costigan and engaging in a deadly pursuit: 2: Colin
+        
+    section Dignam's Journey
+        Skepticism towards Sullivan's rise in the police force: 2: Dignam
+        Suspecting the existence of a mole within the police: 2: Dignam
+        Partnering with Billy Costigan to expose the mole: 4: Dignam
+        Discovering Colin Sullivan's true identity: 4: Dignam
+        Planning to take down Sullivan and the corrupt officers: 4: Dignam
+        Avenging Queenan's death and killing Colin Sullivan: 5: Dignam
+        
+    section Madolyn Madden's Journey
+        Establishing relationships with Billy Costigan and Colin Sullivan: 4: Madolyn
+        Uncovering Billy Costigan's true identity: 2: Madolyn
+        Ending her relationship with Colin Sullivan: 2: Madolyn
+        Becoming involved in the investigation: 3: Madolyn
+        Supporting Billy Costigan in his mission: 4: Madolyn
+        
+    section Frank Costello's Journey
+        Building his criminal empire: 5: Frank
+        Establishing a network of informants within the police: 5: Frank
+        Realizing there is a mole within his organization: 2: Frank
+        Suspecting Colin Sullivan's involvement with the police: 2: Frank
+        Trying to identify and eliminate the mole: 2: Frank
+        Being betrayed by Billy Costigan: 2: Frank
+        Engaging in a deadly confrontation with Colin Sullivan: 2: Frank
+        Being killed by Barrigan: 1: Frank

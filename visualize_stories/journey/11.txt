@@ -1,0 +1,22 @@
+journey
+  title The Silence of the Lambs - Value Change Visualization
+  section Introduction
+    Clarice joins the FBI Academy: 3: Clarice
+  section Investigation
+    Clarice receives assignment to interview Hannibal Lecter: 3: Clarice
+    Clarice meets Dr. Hannibal Lecter: 2: Clarice, 4: Hannibal
+    Clarice starts exchanging information with Hannibal: 4: Clarice, 4: Hannibal
+    Clarice gets insights from Hannibal about Buffalo Bill: 5: Clarice, 4: Hannibal
+    Clarice discovers Buffalo Bill's identity: 4: Clarice
+  section Collaboration
+    Clarice requests assistance from Hannibal: 4: Clarice
+    Hannibal agrees to help Clarice: 4: Hannibal
+    Clarice and Hannibal develop a working relationship: 4: Clarice, 4: Hannibal
+  section Showdown
+    Clarice confronts Buffalo Bill: 4: Clarice
+    Clarice rescues Catherine Martin: 5: Clarice
+    Buffalo Bill is apprehended: 5: Clarice
+  section Resolution
+    Clarice graduates from the FBI Academy: 5: Clarice
+    Clarice receives a call from Hannibal: 3: Clarice, 2: Hannibal
+    Clarice decides not to pursue Hannibal: 3: Clarice

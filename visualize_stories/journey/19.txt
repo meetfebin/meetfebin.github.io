@@ -1,0 +1,29 @@
+journey
+    title Gladiator Story
+    section Beginning
+        Commodus murders his father: 1: Commodus
+        Maximus loses his family: 1: Maximus
+    section Enslavement
+        Maximus becomes a Gladiator: 2: Maximus
+        Maximus meets Juba: 3: Maximus, Juba
+        Maximus wins his first battle: 4: Maximus
+    section Rise in the Arena
+        Maximus gains popularity: 5: Maximus
+        Maximus earns respect from fellow gladiators: 5: Maximus, Gladiators
+        Maximus defeats Tigris of Gaul: 5: Maximus
+    section Political Intrigue
+        Maximus gains the attention of Proximo: 4: Maximus, Proximo
+        Maximus reveals his identity to Proximo: 4: Maximus, Proximo
+        Maximus becomes Proximo's trusted Gladiator: 5: Maximus, Proximo
+    section Rebellion
+        Maximus leads the gladiators in rebellion: 5: Maximus, Gladiators
+        Maximus inspires the people of Rome: 5: Maximus, Rome
+        Maximus confronts Commodus in the Colosseum: 4: Maximus, Commodus
+    section Climax
+        Maximus defeats Commodus in a duel: 5: Maximus, Commodus
+        Maximus reveals the truth about Commodus to the crowd: 5: Maximus, Rome
+        Maximus succumbs to his wounds: 2: Maximus
+    section Resolution
+        Maximus dies and is honored as a hero: 5: Rome, Maximus
+        Commodus is overthrown by the Senate: 5: Rome
+        Maximus is reunited with his family in the afterlife: 5: Maximus, Family

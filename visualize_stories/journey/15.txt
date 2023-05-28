@@ -1,0 +1,24 @@
+journey
+    title Good Will Hunting
+    section Introduction
+        Will's troubled life: 1: Will
+        Will's brilliant mind: 5: Will
+    section Therapeutic sessions
+        Will meets Sean: 3: Will, Sean
+        Initial resistance: 2: Will
+        Slow progress: 3: Will, Sean
+        Breakthrough moments: 4: Will, Sean
+    section Relationships
+        Will's friendship with Chuckie: 4: Will, Chuckie
+        Will's romantic involvement with Skylar: 5: Will, Skylar
+        Conflict with Skylar: 2: Will
+        Resolution with Skylar: 4: Will, Skylar
+    section Self-discovery
+        Will's realization of his potential: 5: Will
+        Pursuing higher education: 4: Will
+        Overcoming internal barriers: 4: Will
+        Embracing vulnerability: 5: Will
+    section Conclusion
+        Will's decision to pursue his dreams: 5: Will
+        Will's farewell to Sean: 4: Will, Sean
+        Hope for the future: 5: Will

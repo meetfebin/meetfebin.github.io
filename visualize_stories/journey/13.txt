@@ -1,0 +1,30 @@
+journey
+    title The Social Network - Value Change Visualization
+    section Mark Zuckerberg's College Years
+        Brilliance and Ambition: 4: Mark Zuckerberg
+        Social Exclusion and Resentment: 2: Mark Zuckerberg
+        Creation of Facemash: 4: Mark Zuckerberg
+    section The Birth of Facebook
+        Excitement and Success: 5: Mark Zuckerberg
+        Conflict with Eduardo Saverin: 2: Mark Zuckerberg, Eduardo Saverin
+        Expansion and Popularity: 5: Mark Zuckerberg
+    section Legal Challenges and Setbacks
+        Lawsuits and Accusations: 2: Mark Zuckerberg, ConnectU
+        Pressure and Scrutiny: 3: Mark Zuckerberg
+        Negotiations and Resolutions: 4: Mark Zuckerberg, Legal Team
+    section Growth and Expansion
+        Business Success: 5: Mark Zuckerberg, Facebook
+        Professional Alliances: 4: Mark Zuckerberg
+        Strategic Partnerships: 5: Mark Zuckerberg
+    section Personal Relationships and Betrayals
+        Complicated Friendships: 3: Mark Zuckerberg, Sean Parker
+        Romantic Interests: 4: Mark Zuckerberg
+        Betrayal and Fallout: 2: Mark Zuckerberg, Former Friends
+    section Facing Consequences
+        Depositions and Testimonies: 3: Mark Zuckerberg, Legal Team
+        Repercussions and Consequences: 2: Mark Zuckerberg
+        Reflection and Growth: 4: Mark Zuckerberg
+    section Continuing Success and Legacy
+        Continued Innovation: 5: Mark Zuckerberg, Facebook
+        Philanthropy and Social Impact: 4: Mark Zuckerberg
+        Reflection and Maturity: 4: Mark Zuckerberg

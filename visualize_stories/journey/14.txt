@@ -1,0 +1,44 @@
+journey
+  title Inception
+  section Entering the dream world
+    Cobb recruits Ariadne: 3: Cobb, Ariadne
+    Cobb explains the mission: 4: Cobb, Ariadne
+    Cobb reveals Mal's presence: 2: Cobb
+    Cobb explains inception: 3: Cobb, Ariadne
+    Ariadne challenges Cobb: 2: Ariadne
+  section Assembling the team
+    Cobb recruits Eames: 4: Cobb, Eames
+    Cobb recruits Arthur: 4: Cobb, Arthur
+    Cobb recruits Yusuf: 4: Cobb, Yusuf
+    Cobb recruits Saito: 4: Cobb, Saito
+    Cobb explains the plan: 4: Cobb, Team
+  section Planning the heist
+    Team enters Saito's dream: 4: Team
+    Cobb tests dream architecture: 3: Cobb
+    Arthur prepares the dream level: 4: Arthur
+    Yusuf prepares the sedative: 4: Yusuf
+    Eames impersonates Browning: 4: Eames
+  section Infiltrating Fischer's mind
+    Team enters Fischer's dream: 4: Team
+    Fischer's projections attack: 2: Team
+    Team fends off the projections: 3: Team
+    Fischer confronts his father's projection: 3: Fischer
+    Cobb intervenes in Fischer's subconscious: 3: Cobb, Fischer
+  section Descending into Limbo
+    Team enters Limbo: 4: Team
+    Cobb confronts Mal: 2: Cobb, Mal
+    Team searches for Fischer: 4: Team
+    Fischer enters his own subconscious: 4: Fischer
+    Team rescues Fischer: 4: Team
+  section Escaping Limbo
+    Team prepares for the kick: 4: Team
+    Team rides the synchronized kicks: 4: Team
+    Team reenters reality: 4: Team
+    Cobb confronts Mal one last time: 2: Cobb, Mal
+    Cobb finally lets go of Mal: 5: Cobb
+  section Resolving the mission
+    Saito and Fischer wake up: 4: Saito, Fischer
+    Cobb confronts his own projection: 3: Cobb
+    Cobb uses the spinning top: 3: Cobb
+    Cobb reunites with his children: 5: Cobb
+    Cobb's totem keeps spinning: 3: Cobb

@@ -1,0 +1,37 @@
+ journey
+ title Forrest Gump's Journey
+    section Childhood
+        Birth: 4: Forrest's mother
+        Braces: 1: Forrest
+        Bullies chase Forrest: 2: Forrest
+        Jenny becomes Forrest's friend: 4: Forrest, Jenny
+    section School Years
+        First day of school: 2: Forrest
+        Meets Jenny again: 4: Forrest, Jenny
+        Running away from bullies: 2: Forrest
+        Football talents discovered: 4: Forrest
+        Graduation day: 3: Forrest
+    section College Life
+        Joins football team: 4: Forrest
+        Meets President Kennedy: 3: Forrest
+        Volunteers for the Army: 3: Forrest
+    section Vietnam War
+        War zone: 2: Forrest
+        Saves fellow soldiers: 4: Forrest
+        Meets Bubba: 4: Forrest, Bubba
+        Injured in battle: 2: Forrest
+    section Post-War Life
+        Ping pong success: 4: Forrest
+        Bubba's death: 2: Forrest
+        Invests in Apple: 4: Forrest
+        Shrimp business success: 4: Forrest
+    section Jenny's Return
+        Reunited with Jenny: 4: Forrest, Jenny
+        Marries Jenny: 5: Forrest, Jenny
+        Becomes a father: 5: Forrest
+    section Later Life
+        Runs across the country: 4: Forrest
+        Meets his son: 5: Forrest, his son
+        Jenny's death: 2: Forrest
+        Raises his son: 5: Forrest, his son
+        Reflects on his life: 5: Forrest

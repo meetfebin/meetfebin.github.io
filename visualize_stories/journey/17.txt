@@ -1,0 +1,39 @@
+journey
+    title Interstellar Value Change
+
+    section Earth's Crisis
+        Earth's future uncertain: 1: Cooper, Murph
+        NASA's discovery: 2: Cooper, Murph
+        'Journey to NASA: 3: Cooper
+
+    section Leaving Earth
+        Farewell to family: 1: Cooper, Murph
+        Boarding the spacecraft: 3: Cooper
+        Launch into space: 4: Cooper
+
+    section Space Exploration
+        Setting course for Saturn: 3: Cooper
+        Entering the wormhole: 4: Cooper
+        Discovering new galaxies: 5: Cooper
+        Landing on Miller's planet: 5: Cooper
+        TARS's sacrifice: 4: Cooper
+        Mann's betrayal: 2: Cooper
+        Escaping Mann's planet: 4: Cooper
+
+    section Time Dilation
+        Communication time delay: 2: Cooper
+        Years passing on Earth: 1: Cooper, Murph
+        Glimpses of Murph's life: 4: Cooper
+        Retrieving data from the black hole: 5: Cooper
+        Entering the tesseract: 4: Cooper
+
+    section Redemption and Resolution
+        Communicating through time: 5: Cooper, Murph
+        Cooper's sacrifice: 4: Cooper
+        Saving humanity: 5: Cooper, Murph
+        Returning to Earth: 4: Cooper, Murph
+        Reunion with Murph: 5: Cooper, Murph
+
+    section Epilogue
+        Humanity's survival: 4: Cooper, Murph
+        Murph's legacy: 5: Cooper, Murph

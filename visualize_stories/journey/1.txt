@@ -1,0 +1,26 @@
+journey
+    title The Shawshank Redemption
+    section Andy's Arrival at Shawshank Prison
+        Andy's Conviction: 1: Andy
+        Andy's Arrival at Shawshank: 2: Andy
+        Andy's First Night in Shawshank: 1: Andy
+    section Adjusting to Prison Life
+        Meeting Red: 2: Andy, Red
+        Andy's First Day in the Yard: 2: Andy
+        Andy's First Encounter with Bogs: 1: Andy
+        Andy Starts Working in the Library: 3: Andy
+    section Andy's Persistence and Resilience
+        Andy Expands the Library: 4: Andy
+        Andy Helps the Guards with Taxes: 4: Andy, Guards
+        Andy Plays Mozart over the PA System: 5: Andy, Inmates
+        Andy Receives Books for the Library: 5: Andy, Inmates
+        Andy's Role as the Prison Accountant: 4: Andy, Warden
+    section Andy's Escape
+        Andy's Tunneling and Concealment of the Escape: 5: Andy
+        Andy's Escape from Shawshank: 5: Andy
+    section The Revelation and Redemption
+        Warden Discovers Andy's Escape: 1: Warden
+        Warden's Suicide: 2: Warden
+        Red's Release on Parole: 5: Red
+        Red's Search for Andy: 4: Red
+        Andy and Red's Reunion in Zihuatanejo: 5: Andy, Red

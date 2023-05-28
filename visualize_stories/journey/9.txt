@@ -1,0 +1,42 @@
+journey
+title The Lord of the Rings: The Fellowship of the Ring
+section The Shire
+Bilbo's birthday: 5: Bilbo
+Frodo inherits the Ring: 2: Frodo
+Gandalf warns Frodo about the Ring: 4: Gandalf, Frodo
+section Journey to Rivendell
+Leaving the Shire: 2: Frodo, Sam, Merry, Pippin
+Encounter with Black Riders: 1: Frodo, Sam, Merry, Pippin
+Arrival at Bree: 3: Frodo, Sam, Merry, Pippin
+Meeting Aragorn: 4: Frodo, Sam, Merry, Pippin, Aragorn
+'Journey' continues: 3: Frodo, Sam, Merry, Pippin, Aragorn
+Reaching Rivendell: 5: Frodo, Sam, Merry, Pippin, Aragorn
+section Council of Elrond
+The history of the Ring: 4: Elrond, Aragorn, Gandalf
+Formation of the Fellowship: 4: Elrond, Aragorn, Gandalf, Frodo, Sam, Merry, Pippin, Legolas, Gimli, Boromir
+section Journey to Mount Doom
+Leaving Rivendell: 4: Fellowship
+Crossing the Misty Mountains: 3: Fellowship
+Attacked by snowstorm: 2: Fellowship
+Entering the Mines of Moria: 3: Fellowship
+Encounter with the Balrog: 2: Fellowship
+Loss of Gandalf: 1: Fellowship
+'Journey' continues: 3: Fellowship
+Reaching Lothlórien: 4: Fellowship
+Farewell to Boromir: 2: Fellowship, Boromir
+Breaking of the Fellowship: 2: Fellowship
+section Frodo and Sam's journey
+Passage through Emyn Muil: 2: Frodo, Sam
+Encounter with Gollum: 3: Frodo, Sam, Gollum
+'Journey' through the Dead Marshes: 2: Frodo, Sam
+Captured by Faramir: 3: Frodo, Sam, Faramir
+Escape from Faramir: 4: Frodo, Sam, Faramir
+Approaching Mount Doom: 3: Frodo, Sam
+Gollum's betrayal: 2: Frodo, Sam, Gollum
+Destruction of the Ring: 5: Frodo, Sam
+Rescue by the Eagles: 4: Frodo, Sam
+section Return to the Shire
+'Journey' back to the Shire: 3: Frodo, Sam
+The Shire under occupation: 2: Frodo, Sam
+Liberation of the Shire: 4: Frodo, Sam
+Frodo's departure: 2: Frodo, Sam
