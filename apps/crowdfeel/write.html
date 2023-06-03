@@ -31,13 +31,13 @@ https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js
 	<title>Meet Febin</title>
 	<meta name="viewport" content="width=device-width" />
 	<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.2d244351.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.d7fb0f98.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.03a007cf.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app.a0ba2ec9.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/0.c567eed9.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/7.3639ec7f.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/axios.4a70c6fc.js">
+		<link rel="modulepreload" href="../../_app/immutable/entry/start.2d244351.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/index.d7fb0f98.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/singletons.03a007cf.js">
+		<link rel="modulepreload" href="../../_app/immutable/entry/app.a0ba2ec9.js">
+		<link rel="modulepreload" href="../../_app/immutable/nodes/0.c567eed9.js">
+		<link rel="modulepreload" href="../../_app/immutable/nodes/5.d03cf478.js">
+		<link rel="modulepreload" href="../../_app/immutable/chunks/axios.4a70c6fc.js">
 </head>
 <script>
 	$(document).ready(function() {
@@ -98,41 +98,44 @@ https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js
 	<div style="display: contents">
 
 
-<main><div class="columns"><div class="column is-4"></div>
-		<div class="column is-4"><div style="margin-top: 0%;"><img style="cursor:default" src="/peace_messenger/logo_2x.png"> 
-				<div><iframe src="https://ghbtns.com/github-btn.html?user=jamesfebin&repo=PeaceMessenger&type=star&count=false&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+<section class="section" style="padding-top:10px;"><div class="container" style="padding-bottom: 5px;"><center><h1 class="title is-size-1" style="margin-bottom:1px;"><img src="/crowdfeel/logo.png" style="height:100px"></h1>
+      <h2 class="subtitle is-size-5" style="margin-top: 0px;">An AI-Powered Tool to Sense the Crowd&#39;s Reactions!
+      </h2></center>
+    <br>
 
-<p style="text-align: justify !important; margin-top:4%">Peace Messenger serves as your guiding light, assisting
-    you with AI in expressing your heartfelt emotions and
-    needs to those who are dear to you. 
-    <br> 
-    <center><img src="/peace_messenger/hero.png" style="height:250px !important"></center> 
+    <center><a href="/apps/crowdfeel" class="button is-link"><span class="icon"><i class="fa-solid fa-home"></i></span>
+        <span>Home</span></a>
+      <br> <br>
+      <article class="card" style="width:70%;text-align:justify;border-radius:30px;background-color:#F9F6F2;color:#555555;"><div class="card-content"><div class="tabs"><ul><li class="is-active"><a><i class="fas fa-feather"></i>  Write</a></li>
+              <li class=""><a><i class="fas fa-film"></i>  Story</a></li></ul></div>
+          <div class="content is-size-4"><form><div class="field"><label class="label">Story</label>
+                <div class="control"><textarea class="textarea" name="story" placeholder="Enter your story" maxlength="3900"></textarea></div>
+                <p class="help">You can add a sinppet of your work. It has a limit of 650 words and 3900 charecters.
+                </p></div>
+              <div class="field"><label class="label">Target Audience</label>
+                <div class="control"><input class="input" type="text" name="target-audience" placeholder="Enter your target audience" maxlength="50" value=""></div>
+                <p class="help">Write a descriptive audience name like &quot;GenZ Teenager&quot; or &quot;Business Professional&quot; or &quot;GenZ Teenager Non Technical&quot;. Max 50 characters.
+                </p></div>
 
-    <br>    
+              <div class="field"><label class="label">Sensitivity</label>
+                <div class="control"><div class="select"><select><option value="Soft">Soft</option><option value="Harsh">Harsh</option></select></div>
+                  <p class="help">Select harsh if you have a thick skin.
+                  </p></div></div>
+             
 
-    This <a href="https://github.com/jamesfebin/PeaceMessenger">Open Source </a>project is an attempt to see if AI can make conversations better and help people understand and respect each other more.
-
-</p>
-<br>
-
-<div class="buttons"><button class="button is-info"><span>Create Room </span></button>
-    <button class="button is-primary">Join Room </button></div>
-
-
-
-
-
-<div class="notification is-info is-light" style="text-align: justify !important;"><small>Though messages are transmitted with WebRTC peer-to-peer communication, it&#39;s also processed with OpenAI. Hence,
-        it&#39;s not recommended to share any sensitive information.
-    </small></div></div></div></div>
-		<div class="column is-4"></div></div></main>
+              <div class="field"><label class="label">OpenAI Key</label>
+                <div class="control"><input class="input" type="password" name="openai-key" placeholder="Enter your OpenAI key" value=""></div>
+                <p class="help">When you enter your API Key in this app, your browser establishes a direct connection with OpenAI. We do not store or utilize your key in any way.
+                </p></div>
+              <div class="field"><div class="control"><button class="button is-link"><i class="fa-solid fa-face-grin-beam-sweat"></i>   Find Reaction</button></div></div></form></div>
+          <br></div></article></center></div></section>
 
 
 			
 			<script>
 				{
 					__sveltekit_w2flg4 = {
-						base: new URL("..", location).pathname.slice(0, -1),
+						base: new URL("../..", location).pathname.slice(0, -1),
 						env: {}
 					};
 
@@ -141,11 +144,11 @@ https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js
 					const data = [null,null];
 
 					Promise.all([
-						import("../_app/immutable/entry/start.2d244351.js"),
-						import("../_app/immutable/entry/app.a0ba2ec9.js")
+						import("../../_app/immutable/entry/start.2d244351.js"),
+						import("../../_app/immutable/entry/app.a0ba2ec9.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
-							node_ids: [0, 7],
+							node_ids: [0, 5],
 							data,
 							form: null,
 							error: null
